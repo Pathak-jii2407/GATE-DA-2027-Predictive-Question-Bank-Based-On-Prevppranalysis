@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "GATE DA 2027 Practice Book",
+      "hasCanvas": false,
+      "bodyTextLen": 2992,
+      "bodyTextHash": "308656bf5b2f29fa816e7314ba13035e894b48b6ff38e6ea3378983cd2562313",
+      "bodyTextPrefix": "GATE DA 2027 Practice Book Tests Scores Mistakes Notes PYQ PDFs ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "GATE DA 2027 Practice Book",
+      "hasCanvas": false,
+      "bodyTextLen": 2978,
+      "bodyTextHash": "019fc49c5cc6013405de70bbbdd4e4c36245ab853a712bf3623a203170d6043d",
+      "bodyTextPrefix": "GATE DA 2027 Tests Scores Mistakes Notes PYQ PDFs Desk 2027.3 GA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
